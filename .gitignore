@@ -5,3 +5,4 @@ reports/*
 npm-debug.log.*
 **/*.js
 screenshots
+package-lock.json
